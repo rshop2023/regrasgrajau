@@ -18,6 +18,23 @@
 * Ao fim do expediente, guarde o veículo na **garagem mais próxima**.
 * Dano ou infração = responsabilidade de quem usou.
 
+## Proibido
+
+Esta Proibido Matar ,Roubar Trabalhadores que estiver em serviço abaixo
+
+* Taxista
+* Motorista de ônibus
+* Lixeiro
+* Leiteiro
+* Lenhador
+* Caminhoneiro
+* Fazendeiro
+* Go Postal&#x20;
+* Pescador
+* Minerador
+* Tratorista
+* Carro Forte
+
 {% hint style="danger" %}
 Violação pode gerar punição severa (STAFF avalia caso a caso).
 {% endhint %}
