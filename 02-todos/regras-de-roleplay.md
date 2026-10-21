@@ -1,5 +1,13 @@
 # regras de roleplay
 
+## COPBAIT
+
+* É proibido utilizar perseguições policiais como forma de atrair a polícia para locais previamente preparados para um confronto armado.
+* Será considerado Copbait conduzir intencionalmente a perseguição até um local onde outros jogadores estejam posicionados, armados e preparados para atacar as forças policiais, buscando obter vantagem no confronto.
+* A ação poderá ser caracterizada como Copbait quando houver preparação prévia do local, posicionamento estratégico de outros jogadores ou qualquer outra conduta que demonstre a intenção de utilizar a perseguição para iniciar um confronto em vantagem.
+* Durante fugas policiais ou confrontos armados, é terminantemente proibido subir em prédios e aguardar a chegada dos policiais para atacá-los pelas escadas, utilizando a estrutura do local para preparar emboscadas e obter vantagem no confronto. Essa conduta será considerada Copbait.
+* A Staff poderá analisar o contexto da situação e determinar se houve ou não a prática de Copbait.
+
 ## Dark RP
 
 * RP que gere desconforto, constrangimento ou situações pesadas **não é permitido**.
