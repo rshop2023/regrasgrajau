@@ -2,15 +2,9 @@
 
 {% stepper %}
 {% step %}
-## Defesa pela polícia
+## Policia
 
-A PM pode defender o Airdrop. Se vencer e não houver criminoso tentando invadir, aguarda **5 minutos** antes de recolher a caixa. Depois, itens vão para o **baú da corporação**.
-{% endstep %}
-
-{% step %}
-## Loot em policiais
-
-**Proibido** lootear policiais durante toda a ação do Airdrop.
+Esta Proibido Policia Participar da ação airdrop
 {% endstep %}
 
 {% step %}
@@ -31,14 +25,6 @@ Exemplo: Airdrop no Pier → proibido levar o tiroteio até o Estacionamento Ver
 ## Loot entre jogadores
 
 Enquanto a **caixa estiver ativa**, permitido lootear abatidos **dentro** da área.
-{% endstep %}
-
-{% step %}
-## Apreensão policial
-
-Com a caixa ativa e a polícia no domínio da ação: apreende só **itens ilegais**.
-
-**Proibida** apreensão de veículos durante o Airdrop.
 {% endstep %}
 
 {% step %}
