@@ -7,7 +7,7 @@
 * Em assaltos blipados: ver tabela em [Assaltos blipados](/broken/pages/8aaff8eaa80b72a058ffa466faeba200136fcb96) (alguns locais liberam loot).
 * Em airdrop: [Airdrop](/broken/pages/9985535a153e015eb8cf7cc27ce73afb6e8a21b2) (loot de polícia **proibido**).
 * Nos locais que permite lootear policia deve pegar somente itens militar exemplo, armas,munições,colete,algemas. Proibido pegar itens pessoas como celular,dinheiro limpo,kit médico.
-* É permitido lootear itens de pessoas mortas, exceto em áreas safe, onde o loot é proibido.
+* É permitido lootear itens de **pessoas sem vida**, exceto em áreas safe, onde o loot é proibido.
 
 ## Gerais
 
