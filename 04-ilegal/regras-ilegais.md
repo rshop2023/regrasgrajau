@@ -31,6 +31,14 @@ Códigos **3** e **5** estão só em [Regras policiais](file:///0125121/03-legal
 * Bandido pode **terminar** o roubo; polícia aguarda.
 * Se demorar **mais de 1 minuto** para iniciar a fuga, a guarnição pode imobilizar e prender.
 
+## ROUBO DE VEICULOS
+
+Permitido usar lockpick ou pegar veiculos **abandonados** nas ruas mesmo fora de horario de assalto
+
+Proibido Usar Lockpick ou Furtar veiculos em safezones
+
+Proibido Roubar o veiculo abandonado caso tenha alguém perto com vida
+
 ## Guerra entre facções
 
 {% stepper %}
