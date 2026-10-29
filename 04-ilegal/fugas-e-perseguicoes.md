@@ -13,7 +13,8 @@
 
 ## Capotamento / queda
 
-* Capotar (ex.: giro 360 no ar), cair da moto ou ser arremessado → **proibido** voltar ao veículo para continuar a fuga.
+* Capotar (ex.: giro 360 no ar) → **proibido** voltar ao veículo para continuar a fuga.
+* Se cair da moto é obrigatório seguir fuga a pé, caso contrário está liberado policiais efetuarem disparos nos pneus.
 * Prosseguir **a pé**, com RP coerente.
 
 ## Pneus
