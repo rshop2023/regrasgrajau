@@ -16,7 +16,6 @@
 * Loja de tatuagem
 * Cabeleireiro
 * Empregos
-* Lanchonetes
 
 ## Regras dentro da SAFE ZONE
 
