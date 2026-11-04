@@ -34,20 +34,38 @@ Negociação de refém / itens: [Sequestro e negociação](/broken/pages/66ffbd8
 
 ASSALTO A AMMUNATION (SOMENTE PISTOLAS)&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+| ILEGAL NESCESSARIO | Policia necessaria | Limite de Reféns    |
+| ------------------ | ------------------ | ------------------- |
+| 2                  | 3                  | Não permitido refem |
+| 3                  | 4                  | Não permitido refem |
+| 4                  | 6                  | Não permitido refem |
 
-ASSALTO A AMMUNATION (SOMENTE PISTOLAS)&#x20;
+ASSALTO A LOJINHA (SOMENTE PISTOLAS)&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+| 2 | 3 | Não permitido refem |
+| - | - | ------------------- |
+| 3 | 4 | Não permitido refem |
+| 4 | 6 | Não permitido refem |
 
 ASSALTO A JOALHERIA (QUALQUER ARMAMENTO)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+| 5 | 7  | 1 |
+| - | -- | - |
+| 6 | 8  | 2 |
+| 7 | 10 | 3 |
 
 ASSALTO AO BANCO FLEECA (SOMENTE SMG E FUZIL) PROIBIDO NEGOCIAR FUGA
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+| 4 | 6 | 1 |
+| - | - | - |
+| 5 | 7 | 1 |
+| 6 | 9 | 1 |
 
 ASSALTO AO BANCO CENTRAL/BANCO PALETO (SOMENTE FUZIL E SUB)&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+| 8  | 11 | 1 |
+| -- | -- | - |
+| 9  | 12 | 2 |
+| 10 | 15 | 2 |
+| 11 | 15 | 3 |
+| 12 | 16 | 3 |

@@ -94,5 +94,4 @@ Regras completas de sequestro (valores, itens, tempo): [Sequestro e negociação
 
 ## SOCORRO
 
-*
 * Caso não tenha nenhum Paramédico ou Bombeiro em serviço podera Descartar o Corpo em algum destes locais **Cemitério,Iml,Maca Hospital.**
