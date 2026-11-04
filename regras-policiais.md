@@ -53,7 +53,7 @@ Detalhes de fuga limpa (ilegal e polícia): [Fugas e perseguições](file:///012
 
 ## Integridade
 
-* Corrupção (info ou itens) proibida.
+* Corrupção (info ou itens) proibida. \[SUJEITO A BANIMENTO]
 * Neutralidade: sem favorecer amigos/facções.
 * Proibido ignorar ferimento grave / RP de dor.
 * Proibido usar DV em benefício próprio.
@@ -91,3 +91,8 @@ Regras completas de sequestro (valores, itens, tempo): [Sequestro e negociação
 
 * Resolva fora do jogo, com mediação da admin se preciso.
 * Ofensa, xenofobia, racismo ou toxicidade OOC = rigor.
+
+## SOCORRO
+
+*
+* Caso não tenha nenhum Paramédico ou Bombeiro em serviço podera Descartar o Corpo em algum destes locais **Cemitério,Iml,Maca Hospital.**
