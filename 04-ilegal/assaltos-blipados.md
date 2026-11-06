@@ -16,14 +16,14 @@ Negociação de refém / itens: [Sequestro e negociação](/broken/pages/66ffbd8
 
 ## Tabela rápida
 
-| Local                  | Armamento                              | Fuga limpa   | Loot polícia  | Observações    | Membros Fora |
-| ---------------------- | -------------------------------------- | ------------ | ------------- | -------------- | ------------ |
-| Ammunation             | Somente pistolas                       | PROIBIDO     | PROIBIDO      | Proibido Fora  | 0            |
-| Lojinhas               | Somente pistolas (proibido automática) | PROIBIDO     | PROIBIDO      | Proibido Fora  | 0            |
-| Joalheria              | Qualquer                               | **Proibida** | **Permitido** | Proibido drone | 1            |
-| Banco Fleeca           | SMG e fuzil                            | **Proibida** | **Permitido** | Proibido drone | 0            |
-| Açougue / Galinheiro   | Somente fuzil                          | **Proibida** | **Permitido** | Proibido drone | 1            |
-| Banco Central / Paleto | Fuzil ou espingarda                    | **Proibida** | **Permitido** | Proibido drone | 1            |
+| Local                  | Armamento           | Fuga limpa   | Loot polícia  | Observações    | Membros Fora |
+| ---------------------- | ------------------- | ------------ | ------------- | -------------- | ------------ |
+| Ammunation             | Pistola/Sub         | Permitida    | PROIBIDO      | Proibido Fora  | 0            |
+| Lojinhas               | Pistola/Sub         | Permitida    | PROIBIDO      | Proibido Fora  | 0            |
+| Joalheria              | Qualquer            | **Proibida** | **Permitido** | Proibido drone | 1            |
+| Banco Fleeca           | SMG e fuzil         | **Proibida** | **Permitido** | Proibido drone | 0            |
+| Açougue / Galinheiro   | Somente fuzil       | **Proibida** | **Permitido** | Proibido drone | 1            |
+| Banco Central / Paleto | Fuzil ou espingarda | **Proibida** | **Permitido** | Proibido drone | 1            |
 
 ## Negociação nestes locais
 
