@@ -18,8 +18,8 @@ Negociação de refém / itens: [Sequestro e negociação](/broken/pages/66ffbd8
 
 | Local                  | Armamento           | Fuga limpa   | Loot polícia  | Observações    | Membros Fora |
 | ---------------------- | ------------------- | ------------ | ------------- | -------------- | ------------ |
-| Ammunation             | Pistola/Sub         | **Proibida** | PROIBIDO      | Proibido Fora  | 0            |
-| Lojinhas               | Pistola/Sub         | **Proibida** | PROIBIDO      | Proibido Fora  | 0            |
+| Ammunation             | Pistola             | **Proibida** | PROIBIDO      | Proibido Fora  | 0            |
+| Lojinhas               | Pistola             | **Proibida** | PROIBIDO      | Proibido Fora  | 0            |
 | Joalheria              | Qualquer            | **Proibida** | **Permitido** | Proibido drone | 1            |
 | Banco Fleeca           | SMG e fuzil         | **Proibida** | **Permitido** | Proibido drone | 0            |
 | Açougue / Galinheiro   | Somente fuzil       | **Proibida** | **Permitido** | Proibido drone | 1            |
